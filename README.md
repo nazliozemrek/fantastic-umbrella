@@ -12,4 +12,6 @@ E-commece Back end code
 ** AS A manager at an internet retail company
 ** I WANT a back end for my e-commerce website that uses the latest technologies
 ** SO THAT my company can compete with other e-commerce companies
+## Walkthrough Video Link
+[[Walkthrough video by screencastify](https://drive.google.com/file/d/1GKUL9HN3kNW_lhkPIvoFDqeO-hbZEJ6l/view)]
 
